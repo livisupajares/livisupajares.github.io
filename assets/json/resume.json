@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Livisu Pajares Rojas",
+    "label": "Biologist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "livisu.pajares.r@upch.pe",
+    "phone": "",
+    "url": "https://livisupajares.github.io/",
+    "summary": "Licensed biologist from Universidad Peruana Cayetano Heredia with research experience focused on bioinformatics and molecular biology.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "PE",
+      "region": ""
     },
     "profiles": [
       {
@@ -151,13 +151,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "B2 Fluent",
       "icon": ""
     }
   ],
