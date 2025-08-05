@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bachelor of Science in Biology. Research Assistant for <a href='https://ciencias.cayetano.edu.pe/lid/'>Laboratory of Translational and Computational Biology</a>. 
+subtitle: Bachelor of Science in Biology. Research Assistant for <a href='https://ciencias.cayetano.edu.pe/lid/'>Laboratory of Translational and Computational Biology - UPCH</a>. 
 
 profile:
   align: right
@@ -29,10 +29,8 @@ latest_posts:
 
 Hi, I'm Livisu Pajares Rojas. Yes, I have two last names, no middle name.
 
-Licensed biologist from Universidad Peruana Cayetano Heredia with research experience focused on bioinformatics and molecular biology. Currently a research assistant and teaching fellow in bioinformatics courses, contributing to transcriptomic projects and miRNA target prediction in viral infections. Skilled in R, Python, and Linux-based tools. 
+Licensed biologist from Cayetano Heredia Peruvian University in Lima, Perú 🇵🇪 (*Universidad Peruana Cayetano Heredia* - UPCH) with research experience focused on bioinformatics and molecular biology. Currently a research assistant and teaching fellow in bioinformatics courses, contributing to transcriptomic projects and miRNA target prediction in viral infections. Skilled in R, Python, and Linux-based tools. 
 
-Co-author of an AACR abstract and academic presenter. Passionate about scientific communication, collaborative work, and applying computational tools to address key questions in biomedical and public health research. 
+Co-author of an American Association for Cancer Reasearch (AACR) abstract and academic presenter in UPCH. Passionate about scientific communication, collaborative work, and applying computational tools to address key questions in biomedical and public health research. 
 
 🐱 Fav subreddit: [r/holdmycatnip](https://www.reddit.com/r/holdmycatnip/).
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
