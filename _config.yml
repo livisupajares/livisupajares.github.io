@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Livisu
+middle_name: 
+last_name: Pajares Rojas
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  E-mail is the best way you can reach out to me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -20,7 +20,7 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 
 url: https://livisupajares.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -30,11 +30,11 @@ back_to_top: true # set to false to disable the back to top button
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: cobalt # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: chalk # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: bio-worlds # blog_name will be displayed in your blog page
+blog_description: a simple blog of my projects and my journey of learning bioinformatics.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -102,8 +102,8 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+  repo: livisupajares/livisupajares.github.io # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDOPYTk9w # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Pajares]
+  first_name: [Livisu]
 
   style: apa
   locale: en
