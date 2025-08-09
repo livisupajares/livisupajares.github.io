@@ -24,13 +24,24 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Translational Research and Computational Biology Laboratory, Cayetano Heredia Peruvian University",
+      "location": "Lima, Perú 🇵🇪",
+      "position": "Research Asistant",
+      "url": "",
+      "startDate": "2024-11-01",
+      "endDate": "2025-12-31",
+      "summary": "Working on a Research project to predict targets in miRNAs overexpressed during DENV-2 infection in Aedes aegypti and Aedes albopictus vectors. Financed by the FA5 Component from the Institute of Tropical Medicine (ITM), Antwerp, Belgium",
+      "highlights": ["Application of bioinformatic tools.", "Data wrangling with R", "Web Scrapping in python and manual literature search", "miRNA target prediction using miRanda", "Fetching data from Uniprot's REST API with python", "Enrichment Analysis with STRINGDB", "Network PPI Analysis with Cytoscape"]
+    },
+    {
+      "name": "Faculty of Science and Engineering, Cayetano Heredia Peruvian University, Lima, Perú",
+      "location": "Lima, Perú 🇵🇪",
+      "position": "Undergraduate Course Assistant",
+      "url": "",
+      "startDate": "2025-03-10",
+      "endDate": "2025-12-18",
+      "summary": "Helping main professors of Bioinformatics I, II and Scientific Investigation I and II undergraduate courses.",
+      "highlights": ["Grading and reviewing guided exercises", "Answering student's questions during guided exercises", "Supervising during midterms", "Grading and reviewing midterm exams"]
     }
   ],
   "volunteer": [
