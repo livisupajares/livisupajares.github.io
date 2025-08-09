@@ -46,14 +46,14 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "STEAM Club, Cayetano Heredia Peruvian University",
+      "location": "Lima, Perú 🇵🇪",
+      "position": "Science Communicator",
+      "url": "https://steam.cayetano.edu.pe/steam-club/",
+      "startDate": "2022-03-01",
+      "endDate": "2022-07-01",
+      "summary": "Social media management for Instagram Posts and Teacher for Steam Class, a series of review classes in Science for High Schoolers.",
+      "highlights": ["Instagram Posts for The World of Mathematics for Albert Einstein birthday (March 14th) and Parasites for World Chagas disease day (April 14th).", "Steam Class: Molecular genetics - Protein Synthesis and Functional groups in Organic Chemistry.", "STEAM CLUB in Lima International Book Fair 2022 (07 Aug), Learning experiences for children."]
     }
   ],
   "education": [
